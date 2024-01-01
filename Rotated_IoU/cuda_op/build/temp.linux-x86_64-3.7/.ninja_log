@@ -1,0 +1,5 @@
+# ninja log v5
+0	7086	1696593788506378167	/dssg/home/acct-seecsh/seecsh/shengyin/DAMC/shengyin/Rotated_IoU/cuda_op/build/temp.linux-x86_64-3.7/sort_vert_kernel.o	39afa81abd412dc4
+0	18002	1696593799419212739	/dssg/home/acct-seecsh/seecsh/shengyin/DAMC/shengyin/Rotated_IoU/cuda_op/build/temp.linux-x86_64-3.7/sort_vert.o	47010ac3f844e7bc
+24	8283	1697098798996892197	/dssg/home/acct-umjpyb/umjpyb/shengyin/Rotated_IoU/cuda_op/build/temp.linux-x86_64-3.7/sort_vert_kernel.o	202c2ce098c895db
+24	17464	1697098808173484405	/dssg/home/acct-umjpyb/umjpyb/shengyin/Rotated_IoU/cuda_op/build/temp.linux-x86_64-3.7/sort_vert.o	cc0e0dc618e6ca81
